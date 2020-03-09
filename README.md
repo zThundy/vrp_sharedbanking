@@ -1,4 +1,6 @@
 # vrp_sharedbanking
+Discord: https://discord.gg/ZAvKBMt
+
 A new banking and robbery system for fivem created on DunkoVRP
 
 # Features
